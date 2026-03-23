@@ -46,12 +46,6 @@
             "port": 4202
           }
         },
-        "test": {
-          "builder": "@angular/build:unit-test",
-          "options": {
-            "buildTarget": "hotels:esbuild:development"
-          }
-        },
         "esbuild": {
           "builder": "@angular/build:application",
           "options": {

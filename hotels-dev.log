@@ -2,3 +2,5 @@
 > expedia-clone-hotels@0.0.0 start
 > ng serve
 
+An unhandled exception occurred: Port 4202 is already in use. Use '--port' to specify a different port.
+See "C:\Users\chawl\AppData\Local\Temp\ng-4TKZkv\angular-errors.log" for further details.
