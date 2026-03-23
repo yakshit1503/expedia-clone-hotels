@@ -1,0 +1,7 @@
+<ul class="hotel-list">
+  @for (hotel of hotels; track hotel.id) {
+    <li>
+      <strong>{{ hotel.name }}</strong> in {{ hotel.city }}
+    </li>
+  }
+</ul>
